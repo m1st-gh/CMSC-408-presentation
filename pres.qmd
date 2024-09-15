@@ -1,0 +1,34 @@
+---
+title: "Valorant Match Tracker"
+author: "Kush Patel & Erick Zheng"
+format: revealjs
+theme: league 
+---
+
+## Problem Domain
+Valorant features numerous professional matches with complex dynamics and detailed performance metrics.
+
+-   **Detailed Stats**: Comprehensive statistics such as kills, assists, and deaths are tracked for players.
+
+-   **Macro View**: Important insights like win rates on different maps and performance against specific teams.
+
+-   **Objective**: Provide a database that offers in-depth information, including detailed stats and broader trends, to better analyze and understand match outcomes.
+
+## Need
+A database is needed to centralize and simplify access to match data.
+
+- **Data Consolidation**: Bring together diverse data points (players, teams, matches).
+- **Streamlined Access**: Provide an efficient way to query and retrieve information.
+
+## Context, Scope, and Perspective
+The database is intended for:
+
+- **Coaches**: To quickly access performance data for strategic decisions.
+- **Players**: To easily track their stats and identify areas for improvement.
+- **Fans**: To follow and analyze match statistics with ease.
+
+## Motivation
+The goal is to provide a tool that simplifies access to Valorant match information.
+
+- **Improved Access**: Make it easier for users to find and use relevant data.
+- **Enhanced Experience**: Improve how match information is accessed and analyzed.
