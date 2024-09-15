@@ -2,33 +2,42 @@
 title: "Valorant Match Tracker"
 author: "Kush Patel & Erick Zheng"
 format: revealjs
-theme: league 
+theme: moon
 ---
 
-## Problem Domain
-Valorant features numerous professional matches with complex dynamics and detailed performance metrics.
+# Problem Domain
 
--   **Detailed Stats**: Comprehensive statistics such as kills, assists, and deaths are tracked for players.
+## Valorant E-sports, Pro matchs
 
--   **Macro View**: Important insights like win rates on different maps and performance against specific teams.
+- **Objective**: The Valorant professional match database provides comprehensive insights into game performance, including detailed stats and broader trends.
 
--   **Objective**: Provide a database that offers in-depth information, including detailed stats and broader trends, to better analyze and understand match outcomes.
+- **Why**: This provides a valuable resource for fans to analyze team and player performance, track trends, and gain insights into the competitive scene.
 
-## Need
-A database is needed to centralize and simplify access to match data.
+# Need
 
-- **Data Consolidation**: Bring together diverse data points (players, teams, matches).
-- **Streamlined Access**: Provide an efficient way to query and retrieve information.
+## A centralized database is needed for tracking team and player performance in Valorant.
 
-## Context, Scope, and Perspective
-The database is intended for:
+This includes:
+
+- Player/Team Performance: Match history, map-specific stats, and time-based trends.
+- Roster Management: Track players signed to specific teams. 
+- Data Consolidation: Bring together diverse data points (players, teams, matches).
+- Streamlined Access: Provide an efficient way to query and retrieve information.
+
+# Context, Scope, and Perspective
+
+## The database is intended for:
 
 - **Coaches**: To quickly access performance data for strategic decisions.
 - **Players**: To easily track their stats and identify areas for improvement.
 - **Fans**: To follow and analyze match statistics with ease.
 
-## Motivation
-The goal is to provide a tool that simplifies access to Valorant match information.
+# Motivation
 
-- **Improved Access**: Make it easier for users to find and use relevant data.
-- **Enhanced Experience**: Improve how match information is accessed and analyzed.
+## As Fans
+
+We enjoy Valorant pro matches and want to see:
+
+- Simplified Stats: Easy-to-access match data for all fans.
+- Trend Insights: Clear analysis of team, player, and map performance to understand strengths and weaknesses.
+
